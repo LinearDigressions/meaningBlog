@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://lineardigressions.github.io//meaningBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lineardigressions.github.io//meaningBlog/" rel="alternate" type="text/html" /><updated>2024-11-23T13:32:05-06:00</updated><id>https://lineardigressions.github.io//meaningBlog/feed.xml</id><title type="html">Into the Red Planet</title><subtitle>This is a blog about meaning and everything else.</subtitle><entry><title type="html">What do we mean by meaning?</title><link href="https://lineardigressions.github.io//meaningBlog/2024/09/24/what-do-we-mean-by-meaning.html" rel="alternate" type="text/html" title="What do we mean by meaning?" /><published>2024-09-24T22:51:00-05:00</published><updated>2024-09-24T22:51:00-05:00</updated><id>https://lineardigressions.github.io//meaningBlog/2024/09/24/what-do-we-mean-by-meaning</id><content type="html" xml:base="https://lineardigressions.github.io//meaningBlog/2024/09/24/what-do-we-mean-by-meaning.html"><![CDATA[<p>Test</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Test]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://lineardigressions.github.io//meaningBlog/jekyll/update/2024/08/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-08-15T08:06:57-05:00</published><updated>2024-08-15T08:06:57-05:00</updated><id>https://lineardigressions.github.io//meaningBlog/jekyll/update/2024/08/15/welcome-to-jekyll</id><content type="html" xml:base="https://lineardigressions.github.io//meaningBlog/jekyll/update/2024/08/15/welcome-to-jekyll.html"><![CDATA[<p>TEST</p>
+
+<p>TEST 2</p>
+
+<p>Test 4</p>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[TEST]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://lineardigressions.github.io//meaningBlog/2024/08/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-08-15T08:06:57-05:00</published><updated>2024-08-15T08:06:57-05:00</updated><id>https://lineardigressions.github.io//meaningBlog/2024/08/15/welcome-to-jekyll</id><content type="html" xml:base="https://lineardigressions.github.io//meaningBlog/2024/08/15/welcome-to-jekyll.html"><![CDATA[<p>TEST</p>
+
+<p>Test 3</p>
+
+<p>Test 4</p>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[TEST]]></summary></entry></feed>
