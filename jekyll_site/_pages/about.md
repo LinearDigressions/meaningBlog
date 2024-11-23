@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Who am I?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A traveler on a distant planet seeking to find the meaning of meaning and everything else.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## What is this blog about?
 
+A collection of my observations on this planet as well as musings on meaning.
 
-[jekyll-organization]: https://github.com/jekyll
+I have taken heavy inspiration from Douglas Hofstadter with his delightful and fascinating ventures into a variety of topics. While Hostadter generally focused on what he titled "Strange Loops", I want to focus on emergence of meaning.
+
+This means that my website will include themes of semiotics, hermeneutics, and cognitive science along with taking particular examples from a variety of fields.

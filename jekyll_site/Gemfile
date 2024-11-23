@@ -10,6 +10,8 @@ gem 'customtheme', path: './customtheme'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
+gem 'jekyll-compose', group: [:jekyll_plugins]
+
 
 # Windows and JRuby
 platforms :mingw, :x64_mingw, :mswin, :jruby do
