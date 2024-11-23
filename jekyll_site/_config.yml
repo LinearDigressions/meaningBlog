@@ -6,7 +6,7 @@
 title: Meaning Blog
 email: skylerboyer@gmail.com
 description: >-
-  This is a blog about meaning and everything else.
+  A blog about meaning and everything else.
 url: "https://lineardigressions.github.io/" # the subpath of your site, e.g. /blog
 baseurl: "/meaningBlog" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -21,8 +21,8 @@ header_pages:
 - _pages/about.md
 
 
-title: Into the Red Planet  
-subtitle: A Martian's Search for Meaning
+title: Interpret This  
+subtitle: A blog about meaning and everything else.
 
 include:
   - _pages
