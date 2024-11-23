@@ -1,0 +1,17 @@
+name: Enforce develop as source branch for master
+
+'on':
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  check-source-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if PR is from develop
+        run: |
+          if [[ "${{ github.event.pull_request.head.ref }}" != "develop" ]]; then
+            echo "Pull request to master must originate from develop!";
+            exit 1;
+          fi
