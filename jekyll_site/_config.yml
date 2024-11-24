@@ -3,25 +3,35 @@
 # You can access them in HTML files via {{ site.title }}, {{ site.email }}, etc.
 # Create custom variables like {{ site.myvariable }}.
 
-title: Meaning Blog
 email: skylerboyer@gmail.com
 description: >-
   A blog about meaning and everything else.
 url: "https://lineardigressions.github.io/" # the subpath of your site, e.g. /blog
-baseurl: "/meaningBlog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/TheUniverseUnwritten" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: customtheme
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 # Order of header pages in navigation
 header_pages:
 - index.md
 - _pages/about.md
 
+jekyll-archives:
+  layout: archive
+  enabled: 
+    - categories
+  permalink: '/category/:name/'
 
-title: Interpret This  
+
+
+markdown: kramdown
+
+
+title: The Universe Unwritten 
 subtitle: A blog about meaning and everything else.
 
 include:
