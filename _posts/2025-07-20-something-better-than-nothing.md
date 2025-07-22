@@ -3,6 +3,7 @@ layout: article
 title: "Something is Better Than Nothing"
 author: James Boyer
 tags: Axioms
+pageview: false
 article_header:
   type: cover
 
@@ -10,8 +11,9 @@ article_header:
   background_image: false
 mathjax: false
 ---
+<!--more-->
 
-# Introduction on Maxims 
+# Introduction on Axioms 
 
 I have found it incredibly helpful to identify short sayings that I can repeat to myself in order to help me make sense of life and make decisions. Life is so complicated combined with my tendency that I tend to overthink things that maxims come in as a life saver. There are a few key sayings that I have found particularly useful that I want to blog about. I chose this one as the first because of how often I use it in everyday life. As I grow and learn, I plan to expand each of the articles about maxims with real life examples or quotes that show how these ideas are life principles.
 

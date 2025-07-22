@@ -14,7 +14,7 @@ key: page-about
 
 ## Why the shoe?
 
-The winged sanda is a reference to Hermes the greek god of interpretation and translation. One of the major themes of this blog will be about interpretation and how it shows up in various area of life.
+The winged sandal is a reference to Hermes the greek god of interpretation and translation. One of the major themes of this blog will be about interpretation and how it shows up in various area of life.
 
 ## Who are you?
 
