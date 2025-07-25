@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Is everything hermeneutics"
+title: "Is Everything Hermeneutics?"
 author: James Boyer
 tags: Philosophy Interpretation
 pageview: false
